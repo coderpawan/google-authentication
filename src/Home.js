@@ -61,7 +61,7 @@ const Home = () => {
             class="rounded-none lg:rounded-r-lg hidden shadow-2xl  lg:block w-[80%]"
           />
         </div>
-        <div className="bg-white text-lg font-bold text-red-600 px-4 py-2 opacity-75 rounded-xl relative left-[20%] mt-8">
+        <div className="bg-white text-lg font-bold text-red-600 px-4 py-2 opacity-75 rounded-xl w-[70%]  relative left-[5%] md:left-[10%] lg:left-[20%] mt-8">
           Please refresh the page if profile is not shown
         </div>
         <div class="absolute top-0 right-0 h-12 w-18 p-4">

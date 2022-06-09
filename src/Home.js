@@ -16,7 +16,7 @@ const Home = () => {
   const profilePic = localStorage.getItem("profilePic");
 
   return (
-    <div className=" bg-[url('./mountain.jpg')] h-[100vh]">
+    <div className=" bg-[url('./mountain.jpg')] lg:h-[100vh]">
       <img src={Logo} alt="" className="h-28 ml-12 pt-8" />
       <div class="max-w-4xl flex items-center flex-wrap mx-auto my-32 lg:my-20">
         <div
